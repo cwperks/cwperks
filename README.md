@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I'm Craig, a software engineer with experience in building and securing scalable systems. Currently, I contribute to the [OpenSearch](https://opensearch.org/) project, focusing on enhancing security and developer tools for the platform. 🛡️
+Hi, I'm Craig, a software engineer with experience in building and securing scalable distributed systems. Currently, I contribute to the [OpenSearch](https://opensearch.org/) project, focusing on enhancing security and developer tools for the platform. 🛡️
 
 ### ⚙️ Interests:
 - **Interests**: System security 🔒, Cloud-native architectures ☁️, Machine Learning 🎓
